@@ -86,6 +86,7 @@ section#header > * {
 .border-m {
     border-radius: 1rem;
 }
+
 /*////////////////////////
     2. Typography
 ////////////////////////*/
@@ -93,7 +94,6 @@ section#header > * {
 * {
     font-family: "Poppins", sans-serif;
 }
-
 
 h2 {
     margin: 2rem 0;
